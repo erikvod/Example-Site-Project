@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "sburg.vscode-javascript-booster",
+        "esbenp.prettier-vscode",
+        "wayou.vscode-todo-highlight",
+        "dskwrk.vscode-generate-getter-setter",
+        "orta.vscode-jest"
+    ]
+}
